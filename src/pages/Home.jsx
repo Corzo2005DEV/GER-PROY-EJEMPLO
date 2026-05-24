@@ -19,7 +19,7 @@ export const Home = () => {
         <div className="mt-5 grid md:grid-cols-2 xl:grid-cols-3">
           <Information
             img={envio}
-            text="Lorem, ipsum dolor sit amet consectetur adipisicing elit."
+            text="Tienda de ropa con envío rápido y seguro a todo el país."
           />
           <Information
             img={pago}
