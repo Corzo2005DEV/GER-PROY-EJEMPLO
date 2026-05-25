@@ -17,7 +17,7 @@ export const Footer = () => {
               className="inline-flex items-center gap-2 rounded-full border border-white bg-white px-8 py-3 text-indigo-600 hover:bg-transparent hover:text-white focus:outline-none focus:ring active:bg-white/90 transition-colors duration-500"
               href="/"
             >
-              <span className="text-sm font-medium">Ver más productos</span>
+              <span className="text-sm font-medium">Ver más productos!</span>
 
               <BsArrowRight />
             </Link>
