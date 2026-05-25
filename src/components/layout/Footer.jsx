@@ -17,16 +17,16 @@ export const Footer = () => {
               className="inline-flex items-center gap-2 rounded-full border border-white bg-white px-8 py-3 text-indigo-600 hover:bg-transparent hover:text-white focus:outline-none focus:ring active:bg-white/90 transition-colors duration-500"
               href="/"
             >
-              <span className="text-sm font-medium">Ver más productos</span>
+              <span className="text-sm font-medium">Ver más productos aquí</span>
 
               <BsArrowRight />
-            </Link>
+            </Link> 
           </div>
         </div>
 
         <div className="mt-5 lg:w-[1024px] mx-auto grid place-items-center md:grid-cols-2 lg:grid-cols-3">
           <div className="text-center sm:text-left">
-            <p className="text-lg font-medium text-gray-900">About Us</p>
+            <p className="text-lg font-medium text-gray-900">Acerca de</p>
             <div className="flex flex-col gap-3 my-3">
               <Link to={"/"}>Lorem, ipsum.</Link>
               <Link to={"/"}>Lorem, ipsum.</Link>
