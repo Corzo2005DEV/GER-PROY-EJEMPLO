@@ -9,7 +9,7 @@ export const Footer = () => {
         <div className="flex flex-col items-center gap-4 bg-indigo-600 p-6 shadow-lg sm:flex-row sm:justify-between lg:px-52">
           <div className="lg:w-[1200px] flex flex-col md:flex-row gap-5 items-center justify-between mx-auto">
             <strong className="text-xl text-white sm:text-xl">
-              ¿Buscas más productos..??
+              ¿Buscas más productosdsfsfdfs
             </strong>
 
             <Link
