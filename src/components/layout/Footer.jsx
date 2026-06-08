@@ -39,16 +39,13 @@ export const Footer = () => {
               <Link to={"/"}>Lorem, ipsum.</Link>
             </div>
           </div>
-  <div className="text-center sm:text-left">
-    <p className="text-lg font-medium text-gray-900">Contacto</p>
-    <div className="flex flex-col gap-3 my-3 text-gray-600">
-      <span>Email: tienda@damaris.com</span>
-      <span>Teléfono: +51 987654321</span>
-      <span>Horario: Lun–Vie 9:00–18:00</span>
-    </div>
-  </div>
-</div>
-
+          <div className="text-center sm:text-left">
+            <p className="text-lg font-medium text-gray-900">About Us</p>
+            <div className="flex flex-col gap-3 my-3">
+              <Link to={"/"}>Lorem, ipsum.</Link>
+              <Link to={"/"}>Lorem, ipsum.</Link>
+            </div>
+          </div>
 
         <p className="mt-10 text-center">
           Copyright &copy; {new Date().getFullYear()} - Todos los derechos
